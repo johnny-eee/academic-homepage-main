@@ -53,7 +53,7 @@ education:
 experience:
 - name: <b>Imperial College London</b>
   logo: /assets/images/badges/imp.png
-  position: <i><font size="3">Visiting Ph.D. researcher hosted by Prof. Fei Teng</font></i>
+  position: <i><font size="3">Visiting Ph.D. researcher hosted by <a href="https://www.eee.hku.hk/people/yhhou/" style="color: blue;">Prof. Fei Teng</a></font></i>
   date: <font size="3">Aug. 2023 - Jan. 2024</font>
 
 
