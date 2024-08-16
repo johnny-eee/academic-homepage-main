@@ -29,7 +29,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
+Education:
 - name: <b>The University of Hong Kong</b>
   logo: /assets/images/badges/hku.png
   position: <i>Ph.D. in Electrical Engineering</i>
@@ -45,11 +45,11 @@ education:
   position: <i><font size="3">B.Eng. in Energy and Power Engineering</font></i>
   date: Sep. 2013 - Jul. 2017
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+ Experience:
+ - name: Peking University
+   logo: /assets/images/badges/PKU_red.png
+   position: Visiting Ph.D. researcher
+   date: Aug. 2023 - Jan. 2024
 
 
 #awards:
