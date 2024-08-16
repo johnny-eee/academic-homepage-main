@@ -33,17 +33,17 @@ education:
 - name: <b>The University of Hong Kong</b>
   logo: /assets/images/badges/hku.png
   position: <i><font size="3">Ph.D. in Electrical Engineering</font></i>
-  date: Sep. 2020 - Aug. 2024
+  date: <font size="3">Sep. 2020 - Aug. 2024</font>
 
 - name: <b>Tsinghua University</b>
   logo: /assets/images/badges/Tsinghua.png
   position: <i><font size="3">M.Sc in Engineering Physics</font></i>
-  date: Sep. 2017 - Jul. 2019
+  date: <font size="3">Sep. 2017 - Jul. 2019</font>
 
 - name: <b>Huazhong University of Science and Technology</b>
   logo: /assets/images/badges/Hust.png
   position: <i><font size="3">B.Eng. in Energy and Power Engineering</font></i>
-  date: Sep. 2013 - Jul. 2017
+  date: <font size="3">Sep. 2013 - Jul. 2017</font>
 
 # experience:
 # - name: Peking University
