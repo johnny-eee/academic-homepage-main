@@ -34,6 +34,6 @@ plugins:
 
 # timezone: Asia/Hong Kong
 
-#collections:
-#  - publications
-#  - news
+collections:
+  - publications
+  - news
