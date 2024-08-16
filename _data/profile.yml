@@ -1,14 +1,14 @@
-primary_name: "Your Name"
+primary_name: "Junhong Liu"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Junhong Liu"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
+- logo: /assets/images/badges/hku.png  # Logo is optional
+  name: Ph.D.
 - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "jhliu@eee.hku.com"
 # cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
 github: your_github_id
