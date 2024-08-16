@@ -36,7 +36,7 @@ education:
   date: <font size="3">Sep. 2020 - Aug. 2024</font>
 
 - name: <b>Tsinghua University</b>
-  logo: <font size="3">/assets/images/badges/Tsinghua.png</font>
+  logo: /assets/images/badges/Tsinghua.png
   position: <i><font size="3">M.Sc in Engineering Physics</font></i>
   date: <font size="3">Sep. 2017 - Jul. 2019</font>
 
