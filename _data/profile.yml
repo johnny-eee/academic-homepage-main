@@ -45,11 +45,11 @@ education:
   position: <i><font size="3">B.Eng. in Energy and Power Engineering</font></i>
   date: Sep. 2013 - Jul. 2017
 
- experience:
- - name: Peking University
-   logo: /assets/images/badges/PKU_red.png
-   position: Visiting Ph.D. researcher
-   date: Aug. 2023 - Jan. 2024
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Visiting Ph.D. researcher
+#   date: Aug. 2023 - Jan. 2024
 
 
 #awards:
