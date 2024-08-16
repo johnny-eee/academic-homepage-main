@@ -29,20 +29,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: The University of Hong Kong
+- name: <b>The University of Hong Kong</b>
   logo: /assets/images/badges/hku.png
-  position: Ph.D. in Electrical Engineering
+  position: <i>Ph.D. in Electrical Engineering</i>
   date: Sep. 2020 - Aug. 2024
 
-- name: Tsinghua University
+- name: <b>Tsinghua University</b>
   logo: /assets/images/badges/Tsinghua.png
   position: <i>M.Sc in Engineering Physics</i>
   date: Sep. 2017 - Jul. 2019
 
-- name: <b>Huazhong University of Science and Technology
+- name: <b>Huazhong University of Science and Technology</b>
   logo: /assets/images/badges/Hust.png
-  position: <b>B.Eng. in Energy and Power Engineering</b>
-  date: <b>Sep. 2013 - Jul. 2017
+  position: <i>B.Eng. in Energy and Power Engineering</i>
+  date: Sep. 2013 - Jul. 2017
 
 # experience:
 # - name: Peking University
