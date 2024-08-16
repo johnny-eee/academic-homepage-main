@@ -2,9 +2,9 @@ primary_name: "Junhong Liu"
 secondary_name: ""
 navbar_name: "Junhong Liu"
 
-positions:
-- logo: /assets/images/badges/hku.png  # Logo is optional
-  name: Ph.D.
+#positions:
+#- logo: /assets/images/badges/hku.png  # Logo is optional
+#  name: Ph.D.
 #- name: Position 2 without logo
 
 
@@ -35,12 +35,12 @@ education:
   date: Sep. 2020 - Aug. 2024
 
 - name: Tsinghua University
-  logo: /assets/images/badges/hku.png
+  logo: /assets/images/badges/tsinghua.png
   position: M.Sc in Engineering Physics
   date: Sep. 2017 - Jul. 2019
 
 - name: Huazhong University of Science and Technology
-  logo: /assets/images/badges/hku.png
+  logo: /assets/images/badges/hust.png
   position: B.Eng. in Energy and Power Engineering
   date: Sep. 2013 - Jul. 2017
 
