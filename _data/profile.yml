@@ -21,7 +21,7 @@ email: "jhliu@eee.hku.com"
 
 short_bio: >-
   <p>
-   I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and co-supervised by [Prof. David J. Hill](https://www.eee.hku.hk/people/dhill/).
+   I am currently a Ph.D. student @HKU supervised by <a href="[https://www.example.com](https://www.eee.hku.hk/people/yhhou/)" style="color: blue;">Prof. Yunhe Hou</a> [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and co-supervised by [Prof. David J. Hill](https://www.eee.hku.hk/people/dhill/).
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
