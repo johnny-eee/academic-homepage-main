@@ -32,12 +32,12 @@ portrait_caption: >-
 Education:
 - name: <b>The University of Hong Kong</b>
   logo: /assets/images/badges/hku.png
-  position: <i>Ph.D. in Electrical Engineering</i>
+  position: <i><font size="3">Ph.D. in Electrical Engineering</font></i>
   date: Sep. 2020 - Aug. 2024
 
 - name: <b>Tsinghua University</b>
   logo: /assets/images/badges/Tsinghua.png
-  position: <i>M.Sc in Engineering Physics</i>
+  position: <i><font size="3">M.Sc in Engineering Physics</font></i>
   date: Sep. 2017 - Jul. 2019
 
 - name: <b>Huazhong University of Science and Technology</b>
