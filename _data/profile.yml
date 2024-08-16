@@ -36,13 +36,13 @@ education:
 
 - name: Tsinghua University
   logo: /assets/images/badges/Tsinghua.png
-  position: M.Sc in Engineering Physics
+  position: <i>M.Sc in Engineering Physics
   date: Sep. 2017 - Jul. 2019
 
-- name: <b>Huazhong University of Science and Technology<\b>
+- name: <b>Huazhong University of Science and Technology
   logo: /assets/images/badges/Hust.png
-  position: <b>B.Eng. in Energy and Power Engineering<\b>
-  date: <b>Sep. 2013 - Jul. 2017<\b>
+  position: <b>B.Eng. in Energy and Power Engineering
+  date: <b>Sep. 2013 - Jul. 2017
 
 # experience:
 # - name: Peking University
