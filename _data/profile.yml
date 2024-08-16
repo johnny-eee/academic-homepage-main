@@ -50,11 +50,11 @@ education:
 #  position: <i><font size="3">Visiting Ph.D. researcher</font></i>
 #  date: Aug. 2023 - Jan. 2024
 
-# experience:
-# - name: <b>Imperial College London</b>
-#   logo: /assets/images/badges/imperial.png
-#   position: <i><font size="3">Visiting Ph.D. researcher</font></i>
-#   date: Aug. 2023 - Jan. 2024
+experience:
+- name: <b>Imperial College London</b>
+  logo: /assets/images/badges/imperial.png
+  position: <i><font size="3">Visiting Ph.D. researcher</font></i>
+  date: Aug. 2023 - Jan. 2024
 
 
 #awards:
