@@ -39,10 +39,10 @@ education:
   position: M.Sc in Engineering Physics
   date: Sep. 2017 - Jul. 2019
 
-- name: Huazhong University of Science and Technology
+- name: <b>Huazhong University of Science and Technology<\b>
   logo: /assets/images/badges/Hust.png
-  position: B.Eng. in Energy and Power Engineering
-  date: Sep. 2013 - Jul. 2017
+  position: <b>B.Eng. in Energy and Power Engineering<\b>
+  date: <b>Sep. 2013 - Jul. 2017<\b>
 
 # experience:
 # - name: Peking University
