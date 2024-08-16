@@ -44,7 +44,12 @@ Education:
   logo: /assets/images/badges/Hust.png
   position: <i><font size="3">B.Eng. in Energy and Power Engineering</font></i>
   date: <font size="3">Sep. 2013 - Jul. 2017</font>
-   
+  
+ - name: <b>Imperial College London</b>
+   logo: /assets/images/badges/imperial.png
+   position: <i><font size="3">Visiting Ph.D. researcher</font></i>
+   date: Aug. 2023 - Jan. 2024
+
 # experience:
 # - name: <b>Imperial College London</b>
 #   logo: /assets/images/badges/imperial.png
@@ -59,10 +64,7 @@ Education:
 #  date: 2021
 
 #Experience:
- - name: <b>Imperial College London</b>
-   logo: /assets/images/badges/imperial.png
-   position: <i><font size="3">Visiting Ph.D. researcher</font></i>
-   date: Aug. 2023 - Jan. 2024
+
    
 #- name: A quick brown fox jumps over the lazy dog and runs away award
 #  date: 2021
